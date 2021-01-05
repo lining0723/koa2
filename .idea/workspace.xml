@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3fe2d4bf-7796-4172-a00c-deeb5eed0746" name="默认更改列表" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>new da</find>
+      <find>date</find>
+      <find>BIGINT</find>
+      <find>ID_TYPE</find>
+      <find>user</find>
+      <find>password</find>
+      <find>STRING</find>
+      <find>TYPES</find>
+      <find>queryFromSomewhere</find>
+      <find>fs</find>
+      <find>DECIMAL</find>
+      <find>addMapping</find>
+      <find>staticFiles</find>
+      <find>Sequelize</find>
+      <find>router</find>
+      <find>controller</find>
+      <find>attributes</find>
+      <find>sequelize</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\LI\Desktop\node学习\view-koa</dir>
+      <dir>F:\前端备份\node学习\view-koa\controllers</dir>
+      <dir>F:\前端备份\node学习\view-koa</dir>
+    </dirStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/controllers/orderList.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/controllers/getList.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/controllers/error.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/controllers/addUser.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/controllers/login.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/controllers/addPeople.js" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupnpm">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="1OWy02lL7kqLKWqwDkNPLw41Lxc" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app.js" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Dart" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.app.js">
+    <configuration name="base.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/use-nunjucks/views/base.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="hello.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/use-nunjucks/views/hello.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" path-to-node="node" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.base.html" />
+      <item itemvalue="JavaScript Debug.hello.html" />
+      <item itemvalue="Node.js.app.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.app.js" />
+        <item itemvalue="JavaScript Debug.hello.html" />
+        <item itemvalue="JavaScript Debug.base.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fe2d4bf-7796-4172-a00c-deeb5eed0746" name="默认更改列表" comment="" />
+      <created>1543306037336</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543306037336</updated>
+      <workItem from="1543306041985" duration="3196000" />
+      <workItem from="1543372738721" duration="564000" />
+      <workItem from="1543373354966" duration="4136000" />
+      <workItem from="1543461467258" duration="32000" />
+      <workItem from="1543892628515" duration="1665000" />
+      <workItem from="1543911623834" duration="5814000" />
+      <workItem from="1544062604942" duration="6499000" />
+      <workItem from="1544069180917" duration="11744000" />
+      <workItem from="1544085094943" duration="7368000" />
+      <workItem from="1544146399137" duration="2227000" />
+      <workItem from="1544154014249" duration="2427000" />
+      <workItem from="1544429839094" duration="2921000" />
+      <workItem from="1544435406369" duration="2719000" />
+      <workItem from="1544492732722" duration="8206000" />
+      <workItem from="1545113385379" duration="7720000" />
+      <workItem from="1545125740346" duration="1617000" />
+      <workItem from="1545198776113" duration="10903000" />
+      <workItem from="1545220856980" duration="3561000" />
+      <workItem from="1545269308191" duration="10934000" />
+      <workItem from="1545709624754" duration="1333000" />
+      <workItem from="1545993767377" duration="328000" />
+      <workItem from="1563347905763" duration="5043000" />
+      <workItem from="1564046113201" duration="2714000" />
+      <workItem from="1564104116613" duration="600000" />
+      <workItem from="1564107426474" duration="7587000" />
+      <workItem from="1564131081426" duration="28000" />
+      <workItem from="1564555439085" duration="4028000" />
+      <workItem from="1567389251408" duration="4798000" />
+      <workItem from="1567407079184" duration="58000" />
+      <workItem from="1568612684016" duration="11976000" />
+      <workItem from="1568682764160" duration="24698000" />
+      <workItem from="1568769709302" duration="4428000" />
+      <workItem from="1568856063089" duration="218000" />
+      <workItem from="1569464491210" duration="600000" />
+      <workItem from="1571038042425" duration="625000" />
+      <workItem from="1576384200156" duration="6263000" />
+      <workItem from="1576407415073" duration="4275000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/controllers/addUser.js</url>
+          <line>26</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>localhost:3000/signin</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
